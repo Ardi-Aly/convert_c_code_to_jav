@@ -1,0 +1,6 @@
+- git init
+- git commit -m "Identifor"
+- git branch -M main (prsly)
+- git remote add origin https://link from github y
+- link from github (repository to be used)
+- git push -u origin main (transfer file changes to remote repository after committing changes)
